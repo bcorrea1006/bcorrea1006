@@ -1,4 +1,4 @@
 - Hi, I’m @bcorrea1006
 - I’m a new computer engineering grad looking for work as a software engineer!
-- I’m interested in building apps to help stimulate exploration and growth!
+- I’m interested in building apps to help facilitate exploration and growth!
 - How to reach me: benitoscorrea@gmail.com
